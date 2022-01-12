@@ -3,5 +3,5 @@ decentralization redefined.
 the cryptographer's blockchain. 
 
 
-#! Q8YhYWsszGGTbCGziFTXTJ4zZT1XcsLSjfWciGcAD - 2022
+#! xJJNW49RuBurAG7DSL66BJt94xR - 2022
 
